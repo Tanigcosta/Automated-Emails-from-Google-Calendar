@@ -1,0 +1,17 @@
+# Secrets (never commit)
+credentials.json
+token.json
+*.secret
+*.key
+*.pem
+
+# Apps Script / tooling
+.clasp.json
+.claspignore
+appsscript.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
